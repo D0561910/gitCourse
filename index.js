@@ -1,3 +1,3 @@
-console.log("HELLO WORLD");
-console.log("Testing");
-console.log("delete console.log()");
+console.log("HELLO charles");
+console.log("alert");
+console.log("console.log()");
